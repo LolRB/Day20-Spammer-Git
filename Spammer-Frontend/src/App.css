@@ -1,0 +1,19 @@
+.message-container {
+  border: 1px solid lightgrey;
+  height: 160px;
+  margin: 15px;
+  box-shadow: 5px 5px 20px rgba(63, 61, 61, 0.2);
+  border-radius: 15px;
+  padding: 10px;
+}
+
+.button {
+  border: none;
+  margin: 2px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.lower-buttons {
+  margin-top: 20px;
+}
